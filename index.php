@@ -20,9 +20,9 @@
         margin-bottom: 20px;
         margin-top: 20px;
       }
-      .container-fluid {
+      /* .container-fluid {
         border: 3px solid grey;
-      }
+      } */
       .foto {
         width: 100%;
       }
@@ -51,6 +51,7 @@
         border-radius: 500px;
         width: 50px;
         height: 50px;
+        margin: 5px;
       }
     </style>
   </head>
